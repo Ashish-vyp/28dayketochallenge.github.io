@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+12:13:40	9592/9592	---MCZ	404	error ('Not%20Found')	text/html	etag:W/%22773e-DTQrTAU5QtNwyabZWqJXJ3x50zw%22	http://28day-ketochallenge.pagedemo.co/robots.txt		(from )
+12:13:40	21241/21241	---MCZ	200	added ('OK')	text/html	etag:W/%2252f9-lItAQJzpiuz1V/IdHJs3CvtyLCY%22	http://28day-ketochallenge.pagedemo.co/	C:/Users/Administrator/Desktop/keto/28day-ketochallenge.pagedemo.co/index.html	(from )
